@@ -1,0 +1,11 @@
+streamlit
+numpy
+scikit-learn
+gensim
+fuzzywuzzy
+python-Levenshtein
+nltk
+distance
+xgboost
+sklearn.metrics.pairwise
+sentence_transformers
